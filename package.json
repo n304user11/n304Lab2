@@ -2,7 +2,7 @@
   "name": "lab2",
   "version": "0.10.26",
   "description": "cool app",
-  "main": "quote.js",
+  "main": "web.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,7 +11,8 @@
     "url": "https://github.com/n304user11/n304Lab2.git"
   },
   "keywords": [
-    "lab2"
+    "example",
+    "heroku"
   ],
   "author": "Sitao Xie",
   "license": "ISC",
